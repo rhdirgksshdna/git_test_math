@@ -1,0 +1,29 @@
+[33mcommit 47de4f782b54563bb9bd6e2a14783a7f89c04868[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: rhdirgksshdna <119338371+rhdirgksshdna@users.noreply.github.com>
+Date:   Sun Dec 11 00:44:30 2022 +0900
+
+    Add the info calculator.p[y in README.md
+
+[33mcommit 76d631af2fe4c71ff356541b94ce8eb971c7532c[m
+Author: nsj247 <nsj247@naver.com>
+Date:   Sun Dec 11 00:38:55 2022 +0900
+
+    Create README.md
+
+[33mcommit 27bd1a691fc60953a38a1c1dec84ecce85c7ffe8[m
+Author: nsj247 <nsj247@naver.com>
+Date:   Sun Dec 4 20:29:08 2022 +0900
+
+    all
+
+[33mcommit 857b9f7fbfd8cb7e99ef929497e8c8ee5902750c[m
+Author: nsj247 <nsj247@naver.com>
+Date:   Sun Dec 4 20:28:32 2022 +0900
+
+    only calculator.py
+
+[33mcommit cb82c46443f5fbfd5e198c710390fd43663f6100[m
+Author: nsj247 <nsj247@naver.com>
+Date:   Sun Dec 4 20:08:18 2022 +0900
+
+    create calculator.py and License
